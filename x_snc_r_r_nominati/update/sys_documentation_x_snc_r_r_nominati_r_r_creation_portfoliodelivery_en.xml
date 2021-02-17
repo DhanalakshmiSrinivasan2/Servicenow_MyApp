@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="portfoliodelivery" label="PortfolioDelivery" language="en" table="x_snc_r_r_nominati_r_r_creation">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>portfoliodelivery</element>
+            <help/>
+            <hint/>
+            <label>PortfolioDelivery</label>
+            <language>en</language>
+            <name>x_snc_r_r_nominati_r_r_creation</name>
+            <plural>PortfolioDeliveries</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>206703</sys_created_by>
+            <sys_created_on>2020-12-08 05:22:26</sys_created_on>
+            <sys_id>4a5bbdc8db01a810ef323967f49619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>PortfolioDelivery</sys_name>
+            <sys_package display_value="R_R_Nominations" source="x_snc_r_r_nominati">cb07126ddbb8e890ef323967f496194d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="R_R_Nominations">cb07126ddbb8e890ef323967f496194d</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_r_r_nominati_r_r_creation_portfoliodelivery_en</sys_update_name>
+            <sys_updated_by>206703</sys_updated_by>
+            <sys_updated_on>2020-12-08 05:22:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

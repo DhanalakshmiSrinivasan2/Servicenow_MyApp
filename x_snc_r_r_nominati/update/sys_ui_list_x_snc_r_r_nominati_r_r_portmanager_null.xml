@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_r_r_nominati_r_r_portmanager" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>managername</element>
+            <list_id display_value="x_snc_r_r_nominati_r_r_portmanager" element="NULL" name="x_snc_r_r_nominati_r_r_portmanager" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">473d718cdb01a810ef323967f49619ef</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>206703</sys_created_by>
+            <sys_created_on>2020-12-08 05:30:42</sys_created_on>
+            <sys_id>4f3d718cdb01a810ef323967f49619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>206703</sys_updated_by>
+            <sys_updated_on>2020-12-08 05:30:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>portfolioname</element>
+            <list_id display_value="x_snc_r_r_nominati_r_r_portmanager" element="NULL" name="x_snc_r_r_nominati_r_r_portmanager" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">473d718cdb01a810ef323967f49619ef</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>206703</sys_created_by>
+            <sys_created_on>2020-12-08 05:30:42</sys_created_on>
+            <sys_id>c33d718cdb01a810ef323967f49619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>206703</sys_updated_by>
+            <sys_updated_on>2020-12-08 05:30:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_r_r_nominati_r_r_portmanager</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>206703</sys_created_by>
+            <sys_created_on>2020-12-08 05:30:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>473d718cdb01a810ef323967f49619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_r_r_nominati_r_r_portmanager</sys_name>
+            <sys_package display_value="R_R_Nominations" source="x_snc_r_r_nominati">cb07126ddbb8e890ef323967f496194d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="R_R_Nominations">cb07126ddbb8e890ef323967f496194d</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_r_r_nominati_r_r_portmanager_null</sys_update_name>
+            <sys_updated_by>206703</sys_updated_by>
+            <sys_updated_on>2020-12-08 05:30:42</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

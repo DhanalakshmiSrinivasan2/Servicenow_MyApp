@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2020-12-08 05:28:46</sys_created_on>
+        <sys_id>e2cc394cdb01a810ef323967f49619ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_r_r_nominati_r_r_portmanager.x_snc_r_r_nominati.r_r_portmanager_user</sys_name>
+        <sys_package display_value="R_R_Nominations" source="x_snc_r_r_nominati">cb07126ddbb8e890ef323967f496194d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="R_R_Nominations">cb07126ddbb8e890ef323967f496194d</sys_scope>
+        <sys_security_acl display_value="x_snc_r_r_nominati_r_r_portmanager">22cc394cdb01a810ef323967f49619e7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e2cc394cdb01a810ef323967f49619ea</sys_update_name>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2020-12-08 05:28:46</sys_updated_on>
+        <sys_user_role display_value="x_snc_r_r_nominati.r_r_portmanager_user" name="x_snc_r_r_nominati.r_r_portmanager_user">9ecc754cdb01a810ef323967f4961955</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="R_R_Nominations">cb07126ddbb8e890ef323967f496194d</application>
+        <file_path/>
+        <instance_id>59031f1cdbd154d4566750b6f4961925</instance_id>
+        <instance_name>cognizantwfdemo</instance_name>
+        <name>sys_security_acl_role_e2cc394cdb01a810ef323967f49619ea</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>206703</sys_created_by><sys_created_on>2020-12-08 05:28:46</sys_created_on><sys_id>e2cc394cdb01a810ef323967f49619ea</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_r_r_nominati_r_r_portmanager.x_snc_r_r_nominati.r_r_portmanager_user</sys_name><sys_package display_value="R_R_Nominations" source="x_snc_r_r_nominati">cb07126ddbb8e890ef323967f496194d</sys_package><sys_policy/><sys_scope display_value="R_R_Nominations">cb07126ddbb8e890ef323967f496194d</sys_scope><sys_security_acl display_value="x_snc_r_r_nominati_r_r_portmanager">22cc394cdb01a810ef323967f49619e7</sys_security_acl><sys_update_name>sys_security_acl_role_e2cc394cdb01a810ef323967f49619ea</sys_update_name><sys_updated_by>206703</sys_updated_by><sys_updated_on>2020-12-08 05:28:46</sys_updated_on><sys_user_role display_value="x_snc_r_r_nominati.r_r_portmanager_user" name="x_snc_r_r_nominati.r_r_portmanager_user">9ecc754cdb01a810ef323967f4961955</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-2053040009</payload_hash>
+        <record_name>x_snc_r_r_nominati_r_r_portmanager.x_snc_r_r_nominati.r_r_portmanager_user</record_name>
+        <reverted_from/>
+        <source>4f07126ddbb8e890ef323967f496194f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2020-12-08 05:28:46</sys_created_on>
+        <sys_id>6acc794cdb01a810ef323967f4961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17640d2cf4a0000001</sys_recorded_at>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2020-12-08 05:28:46</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>62cc794ca301a8109e3e0f645e295705</update_guid>
+        <update_guid_history>62cc794ca301a8109e3e0f645e295705:-2053040009</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_r_r_nominati_r_r_portmanager.x_snc_r_r_nominati.r_r_portmanager_user">65200a40db41a810ef323967f49619a2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2020-12-08 05:43:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>727b982be4db4ca4b3376d7d55266e90</sys_id>
+        <sys_metadata>e2cc394cdb01a810ef323967f49619ea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_r_r_nominati_r_r_portmanager.x_snc_r_r_nominati.r_r_portmanager_user</sys_name>
+        <sys_package display_value="R_R_Nominations" source="x_snc_r_r_nominati">cb07126ddbb8e890ef323967f496194d</sys_package>
+        <sys_parent display_value="x_snc_r_r_nominati_r_r_portmanager">22cc394cdb01a810ef323967f49619e7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="R_R_Nominations">cb07126ddbb8e890ef323967f496194d</sys_scope>
+        <sys_scope_delete display_value="">2bb29779bdec41d2b7986c3b1eb114e4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_e2cc394cdb01a810ef323967f49619ea</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_e2cc394cdb01a810ef323967f49619ea">6acc794cdb01a810ef323967f4961905</sys_update_version>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2020-12-08 05:43:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

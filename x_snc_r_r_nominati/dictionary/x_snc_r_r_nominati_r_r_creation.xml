@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="R_R_Creation" max_length="40" name="x_snc_r_r_nominati_r_r_creation" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="AssociateID" max_length="40" name="associateid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="AssociateName" max_length="40" name="associatename" type="string"/>
+        <element choice="1" label="BuildInitiatives" max_length="40" name="buildinitiatives" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1" value="1"/>
+                <element inactive_on_update="false" label="2" value="2"/>
+                <element inactive_on_update="false" label="3" value="3"/>
+                <element inactive_on_update="false" label="4" value="4"/>
+                <element inactive_on_update="false" label="5" value="5"/>
+            </choice>
+        </element>
+        <element choice="1" label="Grade" max_length="40" name="grade" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="A" value="A"/>
+                <element inactive_on_update="false" label="AD" value="AD"/>
+                <element inactive_on_update="false" label="D" value="D"/>
+                <element inactive_on_update="false" label="M" value="M"/>
+                <element inactive_on_update="false" label="PA" value="PA"/>
+                <element inactive_on_update="false" label="SA" value="SA"/>
+                <element inactive_on_update="false" label="SM" value="SM"/>
+            </choice>
+        </element>
+        <element label="Justification" max_length="40" name="justification" type="string"/>
+        <element label="Portfolio" max_length="40" name="portfolio" type="string"/>
+        <element choice="1" label="PortfolioDelivery" max_length="40" name="portfoliodelivery" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1" value="1"/>
+                <element inactive_on_update="false" label="2" value="2"/>
+                <element inactive_on_update="false" label="3" value="3"/>
+                <element inactive_on_update="false" label="4" value="4"/>
+                <element inactive_on_update="false" label="5" value="5"/>
+            </choice>
+        </element>
+        <element label="Score" max_length="20" name="score" type="decimal"/>
+    </element>
+</database>
