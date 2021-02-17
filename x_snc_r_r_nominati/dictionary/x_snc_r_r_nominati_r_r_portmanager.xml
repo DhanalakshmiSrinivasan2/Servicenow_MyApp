@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="R_R_PortManager" max_length="40" name="x_snc_r_r_nominati_r_r_portmanager" sizeclass="3" type="collection">
+    <element label="R_R_PortManager" max_length="40" name="x_snc_r_r_nominati_r_r_portmanager" type="collection">
         <element label="ManagerName" max_length="40" name="managername" reference="sys_user" reference_qual="nameISNOTEMPTY^EQ" reference_qual_condition="nameISNOTEMPTY^EQ" type="reference"/>
         <element label="PortfolioName" max_length="40" name="portfolioname" type="string"/>
+        <index name="index">
+            <element name="managername"/>
+        </index>
     </element>
 </database>

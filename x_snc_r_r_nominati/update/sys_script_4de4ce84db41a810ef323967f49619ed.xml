@@ -29,6 +29,7 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
+	gs.addInfoMessage('Check rep phase I');
 	// Add your code here
 var gr = new GlideRecord('sys_user_grmember');
 gr.initialize();
@@ -60,7 +61,7 @@ else if (current.title != 'A' && current.title != 'PA')
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4de4ce84db41a810ef323967f49619ed</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>R_R_Grp_Allocation</sys_name>
         <sys_overrides/>
         <sys_package display_value="R_R_Nominations" source="x_snc_r_r_nominati">cb07126ddbb8e890ef323967f496194d</sys_package>
@@ -68,7 +69,7 @@ else if (current.title != 'A' && current.title != 'PA')
         <sys_scope display_value="R_R_Nominations">cb07126ddbb8e890ef323967f496194d</sys_scope>
         <sys_update_name>sys_script_4de4ce84db41a810ef323967f49619ed</sys_update_name>
         <sys_updated_by>206703</sys_updated_by>
-        <sys_updated_on>2020-12-18 13:16:57</sys_updated_on>
+        <sys_updated_on>2021-02-17 08:53:38</sys_updated_on>
         <template/>
         <when>after</when>
     </sys_script>

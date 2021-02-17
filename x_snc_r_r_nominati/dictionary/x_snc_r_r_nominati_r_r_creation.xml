@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="R_R_Creation" max_length="40" name="x_snc_r_r_nominati_r_r_creation" sizeclass="1" type="collection">
+    <element label="R_R_Creation" max_length="40" name="x_snc_r_r_nominati_r_r_creation" type="collection">
         <element attributes="edge_encryption_enabled=true" label="AssociateID" max_length="40" name="associateid" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="AssociateName" max_length="40" name="associatename" type="string"/>
         <element choice="1" label="BuildInitiatives" max_length="40" name="buildinitiatives" type="choice">
